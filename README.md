@@ -28,5 +28,9 @@ The packages required to run are:
 
 A database will need to be created first then seeded wih data.
 
+# Screenshot
+![14-mvc-homework-demo-01](https://user-images.githubusercontent.com/110949754/215915898-7007bb78-776c-420d-9808-ba0487b19fad.gif)
+
+
 # Usage
 Open the site and create a new account to begin. Then Log in to your account to begin posting and commenting. When you are done you can log out.  
